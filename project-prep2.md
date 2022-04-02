@@ -1,4 +1,5 @@
 # Prepare for Projects
+
 For this project, you will be summarizing all of the concepts you’ve learned and applied in labs up to this point of the course.  
 Your instructional team will provide you with further specification regarding constraints and expectations for course-specific requirements.
 
@@ -6,9 +7,11 @@ At this point, you should have an idea as to what’s possible to create given w
 Use that knowledge to generate some ideas and discussion!
 
 ## Project Requirements
+
 Your instructor will provide the detailed requirements for your project, and team tasks.
 
 ## Group Project: Pitch Ideas
+
 It is now time to begin preparations for your Group Project.  
 You’ve been given groups, so the first step for group projects is to pitch ideas.
 
@@ -17,9 +20,9 @@ You’ve been given groups, so the first step for group projects is to pitch ide
 As a group, arrange a 30-60 minute time when you can all be in the same place.  
 Lab time is ideal for this.
 
-There will be two phases for this: 
-  * brainstorm ideas
-  * pitching projects
+There will be two phases for this:
+* brainstorm ideas
+* pitching projects
 
 ### Brainstorming Ideas
 
