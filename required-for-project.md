@@ -79,3 +79,26 @@ I had this idea for 201 but we could do a neat build your own adventure game, If
 ### Another game?
 
 I imagine that building a sort of memory card game would also be relatively simple with react.. bring in an API to randomly generate cute animal pictures :) and then have the user match them based on flipping and memory? Who knows could work
+
+## Thomas's First thoughts
+
+I like Eden's "I'm bored" site idea and I think we could take it pretty far with the time we have
+
+Some API's that we could use for that:
+  -[https://www.boredapi.com/]
+  -[https://www.freetogame.com/api-doc/]
+  -[https://pprathameshmore.github.io/QuoteGarden/]
+  -[https://picsum.photos/]
+
+### Day off planner
+
+An app that give's you random suggestions to do with your 'day off' based on location like restaurants to go to, entertainment, what movies are playing, concerts in the area and let's you save the suggestion's you like
+  -[https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0]
+  -[https://www.yelp.com/developers/documentation/v3]
+  -[https://developer.movieglu.com/]
+
+### Music Taste Portfolio
+
+A portfolio website that allows you to search for music and showcase your music taste. Could have a page for favorite songs, favorite lyrics, and fav artists, upcoming events
+  -[https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/]
+  -[https://lyricsovh.docs.apiary.io/]
