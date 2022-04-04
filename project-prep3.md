@@ -12,10 +12,13 @@ Each group should select a team member to host the project repository.
 This member should create a new repository and add the other team members as collaborators, so that everyone has the right to manage the repository.
 
 Alternatively, you may create a GitHub “Organization”, add team members as members of the organization, and create the repository there.
+Organization: https://github.com/the-golden-order 
 
-The name of the org and the repo should resume-ready.  
+The name of the org and the repo should resume-ready.
 Use the app name, the problem domain, or another professional-sounding team name.  
 Don’t call it 201Final or project-week-app or reeses-puffs or similar.
+Front End Repo: https://github.com/the-golden-order/your-space 
+Back End Repo: https://github.com/the-golden-order/your-space-server 
 
 This project may well be a key piece of your portfolio.  
 Potential employers will be looking at this project. Name it accordingly.
@@ -40,4 +43,4 @@ If you are unfamiliar with any PM tools, here are a few suggestions:
 3. Trello
 4. Azure DevOps
 
-We've chosen to use Lucid Chart as our PM tool. 
+We've chosen to use Lucid Chart as our PM tool. For To-Do's GH Projects

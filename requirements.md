@@ -45,7 +45,7 @@ What stretch goals are you going to aim for?
 ## Functional Requirements
 List the functionality of your product.  
 
-* A user can login via their google account  
+* A user can login via their google account, auth0 
 * A user can update their profile information, and music lists  
 * A user can search for artists/songs in the music API
 
