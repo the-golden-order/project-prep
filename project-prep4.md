@@ -12,6 +12,10 @@ Create your wireframe in a digital tool. Whiteboard wireframes will not be accep
 
 Provide an image of your wireframes in the readme of your project.
 
+Included at :  
+[GitHub Front End Repo](https://github.com/the-golden-order/your-space)  
+[GitHub Back End Repo](https://github.com/the-golden-order/your-space-server)
+
 ## User Stories
 
 Start out by creating at least 5 user stories for your approved project. The outline/requirements for user stories can be found [HERE](https://codefellows.github.io/common_curriculum/projects/UserStories)
@@ -22,7 +26,7 @@ Start out by creating at least 5 user stories for your approved project. The out
 * As a user I want a site to search existing music and add it as my favorite
 * The App will call to an existing music API and draw in results for the user to choose from 
 * App successfully calls the API and renders results on the page with an "add" button
-* [LucidChart](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
+* [LucidChart User Stories](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
 
 *2. Each story in your project management board should contain:*
 
@@ -30,7 +34,7 @@ Start out by creating at least 5 user stories for your approved project. The out
 * As a user I want to be able to log into the site using my google account
 * The app will incorporate the use of Auth0
 * The app will successfully bring up google login on click and in the backend send token for verification
-* [LucidChart](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
+* [LucidChart User Stories](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
 
 *3. Each story in your project management board should contain:*
 
@@ -38,7 +42,7 @@ Start out by creating at least 5 user stories for your approved project. The out
 * As a user I want to be able to navigate the site easily and effectively 
 * Nav bar, with a home page, a user profile page, an about us (the devs) page 
 * Clicks to the nav bar links successfully move to new route(page)
-* [LucidChart](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
+* [LucidChart User Stories](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
 
 
 *4. Each story in your project management board should contain:*
@@ -47,7 +51,7 @@ Start out by creating at least 5 user stories for your approved project. The out
 * As a user I want my site to be aesthetically pleasing 
 * CSS, so Much CSS (Rainbow button! :D BURN IT BUTTON!)
 * Acceptance of group members thinking it pretty
-* [LucidChart](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
+* [LucidChart User Stories](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
 
 *5. Each story in your project management board should contain:*
 
@@ -55,7 +59,7 @@ Start out by creating at least 5 user stories for your approved project. The out
 * As a user I want to be able to save my favorites for viewing later
 * The music the user searches will be able to be "added" and saved to a mongodb independent of the site
 * The music saves and renders properly upon login of the user. 
-* [LucidChart](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
+* [LucidChart User Stories](https://lucid.app/lucidchart/3afcc42b-6ac0-41d8-a345-286ecfa7ea8f/edit?invitationId=inv_71d90b39-98e7-4b3e-915a-1452133bafc8)
 
 ## Software Requirements
 
@@ -76,7 +80,9 @@ Do some research on domain modeling and create your own diagram that represents 
 * [Domain Modeling](https://www.scaledagileframework.com/domain-modeling/)
 * [Domain driven architecture diagram](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578)
 * Include this domain model in the README.md file located in your project’s GitHub repo.
-Included at : [GitHub Front End Repo](https://github.com/the-golden-order/your-space)
+Included at :  
+[GitHub Front End Repo](https://github.com/the-golden-order/your-space)  
+[GitHub Back End Repo](https://github.com/the-golden-order/your-space-server)
 
 ## Using a Database? Make an Database Schema Diagram
 
@@ -94,3 +100,7 @@ D* o many items in your database relate to many other items in your database? Fo
       3. An indication if this collection is associated with another collection.
 
 Include this diagram in your readme, accompanied by an explanation of each data model and it’s responsibility in the application.
+
+Included at :  
+[GitHub Front End Repo](https://github.com/the-golden-order/your-space)  
+[GitHub Back End Repo](https://github.com/the-golden-order/your-space-server)
