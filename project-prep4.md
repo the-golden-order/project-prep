@@ -61,6 +61,7 @@ Start out by creating at least 5 user stories for your approved project. The out
 
 Using the [Software Requirements Document](https://codefellows.github.io/common_curriculum/projects/SoftwareReqs), create a new file within your main GH repo named requirements.md.  
 Include in this doc the required information for your software reqs for your project as a whole.
+[Our Requirements Doc](/project-prep/requirements.md)
 
 ## Domain Modeling
 
