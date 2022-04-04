@@ -94,7 +94,7 @@ Some API's that we could use for that:
 - [https://www.boredapi.com/]
 - [https://www.freetogame.com/api-doc/]
 - [https://pprathameshmore.github.io/QuoteGarden/]
-- [https://picsum.photos/]
+
 
 ### Day off planner
 
@@ -110,3 +110,20 @@ A portfolio website that allows you to search for music and showcase your music 
 
 - [https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/]
 - [https://lyricsovh.docs.apiary.io/]
+
+## Roger's Idea
+
+Copying basically a database of your fave game and comments, pull up review of games. Be like your own gamer vault of your favorite stuff. 
+
+
+LFG idea - steam has an API for concurrent players. 
+
+## Marcus Idea
+
+An app that's able to track all the current storms, and if you wanted to you could name unnamed storms. 
+
+## Ryan Idea
+
+wanted to do something similar to myspace using spotify's api, add albums, song, and have that be displayed on your profile page. 
+
+Can of Music n Games
